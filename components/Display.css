@@ -1,0 +1,13 @@
+.strikethrough {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: line-through;
+}
+
+.notStrikethrough {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
